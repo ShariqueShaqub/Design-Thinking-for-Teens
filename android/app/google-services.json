@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084324810394",
+    "project_id": "designthinking-46083",
+    "storage_bucket": "designthinking-46083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084324810394:android:b3df75a5ae6404b5f9d923",
+        "android_client_info": {
+          "package_name": "com.example.design_thinking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0AUURUofm5r_ut8wv69zL0eKVRk7rbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
